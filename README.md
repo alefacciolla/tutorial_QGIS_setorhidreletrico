@@ -1,0 +1,1 @@
+# tutorial_QGIS_setorhidreletrico
